@@ -1,4 +1,4 @@
-# SASS ROUTER CONTEXT TEMPLATE
+# Styled Components ROUTER CONTEXT TEMPLATE
 
 #### Created by Alex Merced of AlexMercedCoder.com/devNursery.com
 
